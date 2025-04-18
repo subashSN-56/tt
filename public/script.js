@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:3000/api/todos"; // Works both locally and on Render
+const API_URL = "https://tt-1-76rn.onrender.com/api/todos"; // Works both locally and on Render
 
 // Fetch all todos
 async function fetchTodos() {
